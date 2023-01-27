@@ -7,6 +7,7 @@ package student;
 /**
  *
  * @author kiruj
+ * added comments 2023 01 27 at 11:39 AM
  */
 public class Student {
     
