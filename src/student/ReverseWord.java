@@ -7,7 +7,8 @@ package student;
 /**
  *hello there
  * @author kiruj
- * added comment for PULL
+ * added comment for PULL fetch and merge
+ * added comment for PULL command
  */
 
 import java.util.Scanner;
