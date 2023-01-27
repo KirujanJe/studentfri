@@ -14,7 +14,7 @@ public class partTimeStudent extends Student {
     
     private int numOfcourse;
 
-    public partTimeStudent(int numOfcourse, String student) {
+    public partTimeStudent(int numOfcourse, String studentId, String studentName) {
         super (studentId, studentName);
         this.numOfcourse = numOfcourse;
     }
